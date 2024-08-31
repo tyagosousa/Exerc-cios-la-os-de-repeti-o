@@ -1,1 +1,1 @@
-# Exerc-cios-la-os-de-repeti-o
+Exercícios laços de repetição em C do curso "Geek University"
